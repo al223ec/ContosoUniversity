@@ -27,3 +27,4 @@ C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\bin\EntityFr
 C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
