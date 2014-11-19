@@ -27,4 +27,7 @@ C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\bin\EntityFr
 C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
-C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Users\Anton\Documents\GitHub\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
